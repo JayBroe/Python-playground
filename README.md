@@ -1,3 +1,5 @@
+# Colorful bar
+
 This project (in it's first iteration) is just a simple game.
 With keys "A" and "D" you move the bar left or right.
 If the bar touch the falling box, it will change the color
