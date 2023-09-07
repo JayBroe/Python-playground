@@ -9,3 +9,10 @@ Some values are written in the .db file.
 Project is created in Python with SQLite database manage system.
 
 It will by updated one time a week with new features & code improvements. 
+
+To launch it you have make sure you have all libraries installed (before that
+move, I recommend you to make it inside the any kind of virtual environment:
+
+```
+pip install requirements.txt
+```
