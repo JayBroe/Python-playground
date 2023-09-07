@@ -16,3 +16,15 @@ move, I recommend you to make it inside the any kind of virtual environment:
 ```
 pip install requirements.txt
 ```
+
+after that, just enjoy the game by pressing
+
+```
+python main.py
+```
+
+or, in the case you use Linux
+
+```
+python3 main.py
+```
