@@ -6,7 +6,7 @@ will also be changed.
 
 Some values are written in the .db file.
 
-Project is created in Python with SQLite database manage system.
+Project is being created in Python with SQLite database manage system.
 
 It will by updated one time a week with new features & code improvements. 
 
