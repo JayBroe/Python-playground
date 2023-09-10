@@ -30,3 +30,7 @@ or, in the case you use Linux
 ```
 python3 main.py
 ```
+## Demo
+
+https://github.com/JayBroe/Python-playground/assets/51862197/023b82f8-0243-4c84-abfc-83293099639e
+
