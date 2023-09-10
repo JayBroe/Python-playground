@@ -32,5 +32,5 @@ python3 main.py
 ```
 ## Demo
 
-https://github.com/JayBroe/Python-playground/assets/51862197/023b82f8-0243-4c84-abfc-83293099639e
+![rec_1](https://github.com/JayBroe/Python-playground/assets/51862197/d7ddd707-bedc-421f-80ea-e768a1a9f55c)
 
