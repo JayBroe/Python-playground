@@ -41,9 +41,9 @@ class Game:
 
 
         while True:
-          c1 = rn.randint(0,255)
-          c2 = rn.randint(0,255)
-          c3 = rn.randint(0,255)
+          c1 = rd.randint(0,255)
+          c2 = rd.randint(0,255)
+          c3 = rd.randint(0,255)
           color = (c1,c2,c3)
           x = UFO(color, screen, 20,20,rd.randint(0,width),0) 
   
@@ -72,7 +72,7 @@ class Game:
                db.update_value("bar_info","width",1)
 
                ship.expand(db.fetch_one("bar_info","width"))
-               ship.change_color(i.return_color())
+               ship.change_color(i.retu_color())
       
 
                index+=1
