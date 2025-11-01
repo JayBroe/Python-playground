@@ -1,5 +1,9 @@
+import sys
+import random as rd
+import pygame
+from pygame.locals import *
+from classes import *
 import pytest
-from game import Block
 
 def test_UFO():
     c1 = rd.randint(0,255)
