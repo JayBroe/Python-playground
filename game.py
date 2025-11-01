@@ -72,7 +72,7 @@ class Game:
                db.update_value("bar_info","width",1)
 
                ship.expand(db.fetch_one("bar_info","width"))
-               ship.change_color(i.retu_color())
+               ship.change_color(i.return_color())
       
 
                index+=1
