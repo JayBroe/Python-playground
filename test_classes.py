@@ -5,6 +5,8 @@ from pygame.locals import *
 from classes import *
 import pytest
 
+width, height = 640, 480
+screen = pygame.display.set_mode((width, height))
 def test_UFO():
     c1 = rd.randint(0,255)
     c2 = rd.randint(0,255)
