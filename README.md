@@ -16,7 +16,8 @@ To launch it you have make sure you have all libraries installed (before that
 move, I recommend you to make it inside the any kind of virtual environment:
 
 ```
-pip install requirements.txt
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 after that, just enjoy the game by pressing
