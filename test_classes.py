@@ -1,7 +1,10 @@
 import pytest
 from game import Block
 
-def test_block_initial_health_for_non_white_color():
-    block = Block(posx=10, posy=20, width=5, height=5, color="GREEN")
-    # jeśli kolor różny od „WHITE”, health powinien być 100
-    assert block.getHealth() == 100
+def test_UFO():
+    c1 = rd.randint(0,255)
+    c2 = rd.randint(0,255)
+    c3 = rd.randint(0,255)
+    color = (c1,c2,c3)
+    x = UFO(color, screen, 20,20,rd.randint(0,width),0) 
+    assert x.return_color()
